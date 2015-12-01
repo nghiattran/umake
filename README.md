@@ -1,7 +1,7 @@
 #Umake
 	
-	A simple C program that looks through all C and C++ files in current directory, searches their dependencies,
-	and creates makefile to create executable files.
+	A simple C program that looks through all C and C++ files in current directory, searches their 
+	dependencies, and creates makefile to create executable files.
 
 #How to use:
 
